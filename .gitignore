@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Tool caches
+.ruff_cache/
+
+# Environment
+.env
+.env.*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDEs
+.idea/
+.vscode/
+*.code-workspace
+
+# Editor swap files
+*.swp
+*.swo
+*~
+
+#AI
+.omo
+.codegraph
+AGENTS.md
+AGENTS.json
+AGENTS.yaml
+AGENTS.yml
+CLAUDE.md
+
